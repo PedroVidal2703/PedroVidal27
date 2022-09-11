@@ -6,14 +6,6 @@
 - 😄 Pronouns: He/Him
 - 💼 Currently open for hire
 
-
-Feel free to reach out! Here are my socials:
-<div align="center" style="display: flex; align-items: center">
-  <img href="https://www.linkedin.com/in/pedro-c-vidal/" src="./LinkedIn Logo.png" alt="LinkedIn" style="width: 100px; height: auto"\>
-</div>
-
-
-
 <h3 align="center">Languages and Tools</h3>
 <div align="center" style="display: flex; align-items: center">
   <img src="./HTML5 Logo.png" alt="HTML" style="width: 100px; height: auto"\>
@@ -41,4 +33,9 @@ Feel free to reach out! Here are my socials:
   &nbsp;
   &nbsp;
   <img src="./Python Logo.png" alt="Python" style="width: 80px; height: auto"\>
+</div>
+
+Feel free to reach out! Here are my socials:
+<div align="center" style="display: flex; align-items: center">
+  <img href="https://www.linkedin.com/in/pedro-c-vidal/" src="./LinkedIn Logo.png" alt="LinkedIn" style="width: 100px; height: auto"\>
 </div>
