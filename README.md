@@ -4,10 +4,9 @@
 - 🎵 Favorite music genre: Synthwave
 - 🥋 Hobbies: Muay Thai, Video Games
 - 😄 Pronouns: He/Him
-
-
+&nbsp;
+&nbsp;
 - 💼 Currently open for hire
-
 
 
 Feel free to reach out! Here are my socials:
