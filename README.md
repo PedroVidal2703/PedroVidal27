@@ -4,13 +4,13 @@
 - 🎵 Favorite music genre: Synthwave
 - 🥋 Hobbies: Muay Thai, Video Games
 - 😄 Pronouns: He/Him
-- &nbsp;
-- &nbsp;
 - 💼 Currently open for hire
 
 
 Feel free to reach out! Here are my socials:
-
+<div align="center" style="display: flex; align-items: center">
+  <img href="https://www.linkedin.com/in/pedro-c-vidal/" src="./LinkedIn Logo.png" alt="LinkedIn" style="width: 100px; height: auto"\>
+</div>
 
 
 
