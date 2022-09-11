@@ -26,4 +26,20 @@ Here are some ideas to get you started:
   &nbsp;
   &nbsp;
   <img src="./Javascript Logo.png" alt="Javascript" style="width: 100px; height: auto"\>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="./Angular Logo.png" alt="Angular" style="width: 100px; height: auto"\>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="./Bootstrap Logo.png" alt="Bootstrap" style="width: 100px; height: auto"\>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="./C Logo.png" alt="C" style="width: 100px; height: auto"\>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="./Python Logo.png" alt="Python" style="width: 100px; height: auto"\>
 </div>
