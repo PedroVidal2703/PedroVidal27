@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools</h3>
 <div align="center" style="display: flex; align-items: center">
-  <img src="./HTML5 Logo.png" style="width: 100px; height: auto"\>
+  <img src="./HTML5 Logo.png" alt="HTML" style="width: 100px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./CSS Logo.png" style="width: 100px; height: auto"\>
+  <img src="./CSS Logo.png" alt="CSS" style="width: 100px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./Javascript Logo.pn" alt="Teste" style="width: 100px; height: auto"\>
+  <img src="./Javascript Logo.png" alt="Javascript" style="width: 100px; height: auto"\>
 </div>
