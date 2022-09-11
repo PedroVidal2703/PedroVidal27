@@ -1,8 +1,8 @@
-### Hi there, I'm Pedro Vidal! 👋
-
+### Hi there, I'm Pedro Vidal! 👋 {style=text-align:center}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on my portifolio
 - 🎵 Favorite music genre: Synthwave
-- 🥋 Hobbies: Muay Thai, Video Games      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+- 🥋 Hobbies: Muay Thai, Video Games
 - 😄 Pronouns: He/Him
 - 💼 Currently open for hire
 
