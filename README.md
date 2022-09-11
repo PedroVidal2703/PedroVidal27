@@ -41,5 +41,5 @@
 </div>
 
 <div align="center" style="display: flex; align-items: center">
-[![Pedro Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVidal27)](https://github.com/anuraghazra/github-readme-stats)
+![Pedro Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVidal27)](https://github.com/anuraghazra/github-readme-stats)
 </div>
