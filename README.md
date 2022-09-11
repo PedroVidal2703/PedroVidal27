@@ -21,25 +21,25 @@ Here are some ideas to get you started:
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./CSS Logo.png" alt="CSS" style="width: 100px; height: auto"\>
+  <img src="./CSS Logo.png" alt="CSS" style="width: 80px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./Javascript Logo.png" alt="Javascript" style="width: 100px; height: auto"\>
+  <img src="./Javascript Logo.png" alt="Javascript" style="width: 80px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./Angular Logo.png" alt="Angular" style="width: 100px; height: auto"\>
+  <img src="./Angular Logo.png" alt="Angular" style="width: 80px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./Bootstrap Logo.png" alt="Bootstrap" style="width: 100px; height: auto"\>
+  <img src="./Bootstrap Logo.png" alt="Bootstrap" style="width: 80px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./C Logo.png" alt="C" style="width: 100px; height: auto"\>
+  <img src="./C Logo.png" alt="C" style="width: 80px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./Python Logo.png" alt="Python" style="width: 100px; height: auto"\>
+  <img src="./Python Logo.png" alt="Python" style="width: 80px; height: auto"\>
 </div>
