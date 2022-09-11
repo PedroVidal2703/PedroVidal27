@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Languages and Tools</h3>
-<div align="center" style="display: flex; align-items: center">
+<div align="center" style="background-color: white; display: flex; align-items: center">
   <img src="./HTML5 Logo.svg" style="width: 100px; height: auto"\>
 </div>
