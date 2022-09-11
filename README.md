@@ -1,11 +1,13 @@
 ### Hi there, I'm Pedro Vidal! 👋
 <div align="center">
   <div>
+    
     - 🔭 I’m currently working on my portifolio
     - 🎵 Favorite music genre: Synthwave
     - 🥋 Hobbies: Muay Thai, Video Games
     - 😄 Pronouns: He/Him
     - 💼 Currently open for hire
+    
   </div>
   <div>
     
