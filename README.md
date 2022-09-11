@@ -42,4 +42,5 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
 [![Pedro Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
