@@ -39,5 +39,7 @@
 <div align="center" style="display: flex; align-items: center">
   <a href="https://www.linkedin.com/in/pedro-c-vidal/"><img src="./LinkedIn Logo.png" alt="LinkedIn" style="width: 100px; height: auto"\></a>
 </div>
-
+&nbsp;
+&nbsp;
+&nbsp;
 [![Pedro Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
