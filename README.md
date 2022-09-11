@@ -40,4 +40,6 @@
   <a href="https://www.linkedin.com/in/pedro-c-vidal/"><img src="./LinkedIn Logo.png" alt="LinkedIn" style="width: 100px; height: auto"\></a>
 </div>
 
+<div align="center" style="display: flex; align-items: center">
 [![Pedro Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVidal27)](https://github.com/anuraghazra/github-readme-stats)
+</div>
