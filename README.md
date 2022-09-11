@@ -49,7 +49,7 @@
 
 <h3 align="center">Feel free to reach out! Here are my socials:</h3>
 <div align="center" style="display: flex; align-items: center">
-  <a target="_blank" href="https://www.linkedin.com/in/pedro-c-vidal/"><img src="./LinkedIn Logo.png" alt="LinkedIn" style="width: 100px; height: auto"\></a>
+  <a href="https://www.linkedin.com/in/pedro-c-vidal/" target="_blank"><img src="./LinkedIn Logo.png" alt="LinkedIn" style="width: 100px; height: auto"\></a>
 </div>
 &nbsp;
 &nbsp;
