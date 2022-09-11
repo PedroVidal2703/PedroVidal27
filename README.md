@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./Javascript Logo.png" alt="Teste" style="width: 100px; height: auto"\>
+  <img src="./Javascript Logo.pn" alt="Teste" style="width: 100px; height: auto"\>
 </div>
