@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 
 
-#### 💼 Currently looking for work
+- 💼 Currently open for hire
 
 
 
