@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
