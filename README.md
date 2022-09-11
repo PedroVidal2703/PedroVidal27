@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools</h3>
 <div align="center" style="display: flex; align-items: center">
-  <img src="./HTML5 Logo.svg" style="width: 100px; height: auto"\>
+  <img src="./HTML5 Logo.svg" style="width: 10%; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./CSS Logo.svg" style="width: 60px; height: auto"\>
+  <img src="./CSS Logo.svg" style="width: 10%; height: auto"\>
 </div>
