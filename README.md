@@ -9,14 +9,13 @@
 - 💼 Currently open for hire
   
 </div>
-<div align="center" markdown=1>
-  
-  [![Pedro Vidal stats](https://github-readme-stats.vercel.app/api?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-  &nbsp;
-  &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroVidal27&theme=midnight-purple&hide=prs" />
+</a>
+&nbsp;
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVidal27&theme=midnight-purple&layout=compact" />
+</a>
 
 </div>
 <h3 align="center">Languages and Tools</h3>
