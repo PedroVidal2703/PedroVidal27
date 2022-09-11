@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="./CSS Logo.svg" style="width: 80px; height: auto"\>
+  <img src="./CSS Logo.svg" style="width: 70px; height: auto"\>
 </div>
