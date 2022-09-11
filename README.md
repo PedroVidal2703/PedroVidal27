@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   &nbsp;
   &nbsp;
   &nbsp;
-  &nbsp;
   <img src="./CSS Logo.png" style="width: 100px; height: auto"\>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="./Javascript Logo.png" style="width: 100px; height: auto"\>
 </div>
