@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - 💼 Currently open for hire
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">Languages and Tools</h3>
 <div align="center" style="display: flex; align-items: center">
   <img src="./HTML5 Logo.png" alt="HTML" style="width: 80px; height: auto"\>
@@ -42,8 +44,3 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<div align="center" style="display: flex; align-items: center">
-
-  [![Pedro Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
