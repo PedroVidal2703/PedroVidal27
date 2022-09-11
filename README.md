@@ -8,7 +8,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <div align="center" style="display: flex; align-items: center">
-  <img src="./HTML5 Logo.png" alt="HTML" style="width: 100px; height: auto"\>
+  <img src="./HTML5 Logo.png" alt="HTML" style="width: 80px; height: auto"\>
   &nbsp;
   &nbsp;
   &nbsp;
