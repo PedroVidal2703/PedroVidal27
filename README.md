@@ -1,13 +1,25 @@
-### Hi there, I'm Pedro Vidal! 👋 {style=text-align:center}
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I'm Pedro Vidal! 👋
+<div align="center">
+<div align="left" markdown=1>
+  
 - 🔭 I’m currently working on my portifolio
 - 🎵 Favorite music genre: Synthwave
 - 🥋 Hobbies: Muay Thai, Video Games
 - 😄 Pronouns: He/Him
 - 💼 Currently open for hire
+  
+</div>
+<div align="right" markdown=1>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVidal27&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+</div>
+&nbsp;
+&nbsp;
 <h3 align="center">Languages and Tools</h3>
-<div align="center" style="display: flex; align-items: center">
+<div align="center">
   <img src="./HTML5 Logo.png" alt="HTML" style="width: 80px; height: auto"\>
   &nbsp;
   &nbsp;
