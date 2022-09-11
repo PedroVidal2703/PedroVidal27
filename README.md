@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools</h3>
 <div style="align-items: center">
-  <img src="./HTML5 Logo.svg" style="width: 40 height:auto"\>
+  <img src="./HTML5 Logo.svg" style="width: 40px height:auto"\>
 </div>
