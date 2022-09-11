@@ -1,5 +1,5 @@
 ### Hi there, I'm Pedro Vidal! 👋
-<div align="center" style="display: flex; align-items: center">
+<div align="center">
   <div>
     - 🔭 I’m currently working on my portifolio
     - 🎵 Favorite music genre: Synthwave
