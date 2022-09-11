@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; align-items: center">
   <img src="./HTML5 Logo.svg" style="margin: 100px; width: 100px; height: auto"\>
   &nbsp;
+  &nbsp;
   <img src="./CSS Logo.svg" style="padding: 10px; width: 100px; height: auto"\>
 </div>
