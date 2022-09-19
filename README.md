@@ -2,7 +2,7 @@
 <div align="center">
 <div align="left" markdown=1>
   
-- 🔭 I’m currently working on my portifolio
+- 🔭 I’m currently working on my portfolio
 - 🎵 Favorite music genre: Synthwave
 - 🥋 Hobbies: Muay Thai, Video Games, Drawing
 - 😄 Pronouns: He/Him
